@@ -1,4 +1,4 @@
-#SEM3-Mini-Project-JAVA: Library Fine Calculator 
+# SEM3-Mini-Project-JAVA: Library Fine Calculator 
 This is my 3rd Semester Mini project that can calculate the accumated fine of an issued book after the due date has been reached which is 1 week and the days the book has not been returned will be added with 1 rupee each day until the day the book has been returned.
 The project has been kept simple with the basic Mysql Database connection and TOMCAT 8080 server, we programmed this using JAVA EE on Eclipse.
 The project is set to Dynamic Web and JAVA EE perspective, and required .jar files have been dowloaded in the set paths.
@@ -8,14 +8,14 @@ We create a SERVLET file FineCalculatorServlet.java and the reason why we chose 
 After creating out Servlet we start with out index.html, our frontend for our webpage.
 The flow is simple- Data is stored in MYSQL, the connection is established on DBConnection.java, the webserver logic and the main program that calculates the fine is the FineCalculatorServlet.java and our frontend is the index.html.
 We start our TOMCAT server in the servers tab and we run the project on TOMCAT server.
-#TechStack
-##Backend
+# TechStack
+## Backend
 1.JAVA EE
 2.Servlet
 3.MYSql
-##Frontend
+## Frontend
 1.HTML
-##Servers
+## Servers
 1.Apache TOMCAT 11
-##Application
+## Application
 1.Eclipse IDE
