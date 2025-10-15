@@ -10,12 +10,12 @@ The flow is simple- Data is stored in MYSQL, the connection is established on DB
 We start our TOMCAT server in the servers tab and we run the project on TOMCAT server.
 # TechStack
 ## Backend
-1.JAVA EE
-2.Servlet
-3.MYSql
+1. JAVA EE
+2. Servlet
+3. MYSql
 ## Frontend
-1.HTML
+1. HTML
 ## Servers
-1.Apache TOMCAT 11
+1. Apache TOMCAT 11
 ## Application
-1.Eclipse IDE
+1. Eclipse IDE
